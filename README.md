@@ -1,3 +1,8 @@
 # My-Website---html-css-ONLY
 html/css version
-![image](https://user-images.githubusercontent.com/72635181/126886274-be0a8905-3cc0-401a-a032-bf8000f6c4ff.png)
+![image](https://user-images.githubusercontent.com/72635181/129808295-1f2b49d8-227f-498e-bc38-6e2fe6f70915.png)
+
+![image](https://user-images.githubusercontent.com/72635181/129808393-f072a683-a798-4309-bb06-66a97f95265e.png)
+
+![image](https://user-images.githubusercontent.com/72635181/129808474-6ead71bd-c84b-413d-a089-9f9bad464452.png)
+
