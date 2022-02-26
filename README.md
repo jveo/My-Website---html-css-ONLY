@@ -4,5 +4,4 @@ html/css version
 
 ![image](https://user-images.githubusercontent.com/72635181/129808393-f072a683-a798-4309-bb06-66a97f95265e.png)
 
-![image](https://user-images.githubusercontent.com/72635181/129808474-6ead71bd-c84b-413d-a089-9f9bad464452.png)
 
